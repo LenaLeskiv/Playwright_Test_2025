@@ -28,7 +28,7 @@ test.only('Interaction with Web Elements on GitHub', async ({page})=>{
         await page.locator('#password').fill('');
     }*/
     
-    await page.waitForTimeout(2000);
+   
 
     await page.locator('//input[contains(@class, "btn")]').click();
 
