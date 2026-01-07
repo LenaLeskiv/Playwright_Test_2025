@@ -1,0 +1,25 @@
+{
+  "name": "playwright_test_2025",
+  "version": "1.0.0",
+  "description": "Learning Playwright and TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LenaLeskiv/Playwright_Test_2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LenaLeskiv/Playwright_Test_2025/issues"
+  },
+  "homepage": "https://github.com/LenaLeskiv/Playwright_Test_2025#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3"
+  }
+}
